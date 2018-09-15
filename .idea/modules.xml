@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myatis-plus-enum/myatis-plus-enum.iml" filepath="$PROJECT_DIR$/myatis-plus-enum/myatis-plus-enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-active-record/mybatis-plus-active-record.iml" filepath="$PROJECT_DIR$/mybatis-plus-active-record/mybatis-plus-active-record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-auto-fill-metainfo/mybatis-plus-auto-fill-metainfo.iml" filepath="$PROJECT_DIR$/mybatis-plus-auto-fill-metainfo/mybatis-plus-auto-fill-metainfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-currency-service/mybatis-plus-currency-service.iml" filepath="$PROJECT_DIR$/mybatis-plus-currency-service/mybatis-plus-currency-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-logic-delete/mybatis-plus-logic-delete.iml" filepath="$PROJECT_DIR$/mybatis-plus-logic-delete/mybatis-plus-logic-delete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-optimistic-locker/mybatis-plus-optimistic-locker.iml" filepath="$PROJECT_DIR$/mybatis-plus-optimistic-locker/mybatis-plus-optimistic-locker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-quickstart/mybatis-plus-quickstart.iml" filepath="$PROJECT_DIR$/mybatis-plus-quickstart/mybatis-plus-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-tenant/mybatis-plus-tenant.iml" filepath="$PROJECT_DIR$/mybatis-plus-tenant/mybatis-plus-tenant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-tradition-crud/mybatis-plus-tradition-crud.iml" filepath="$PROJECT_DIR$/mybatis-plus-tradition-crud/mybatis-plus-tradition-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-wrapper/mybatis-plus-wrapper.iml" filepath="$PROJECT_DIR$/mybatis-plus-wrapper/mybatis-plus-wrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-plus-3.0.1-demo.iml" filepath="$PROJECT_DIR$/springboot-mybatis-plus-3.0.1-demo.iml" />
+    </modules>
+  </component>
+</project>

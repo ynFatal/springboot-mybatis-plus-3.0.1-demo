@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myatis-plus-enum" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-active-record" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-auto-fill-metainfo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-currency-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-logic-delete" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-optimistic-locker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-quickstart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-tenant" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-tradition-crud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-wrapper" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

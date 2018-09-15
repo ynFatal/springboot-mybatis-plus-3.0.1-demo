@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus-tradition-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus-active-record/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus-currency-service/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus-wrapper/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus-optimistic-locker/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus-auto-fill-metainfo/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus-logic-delete/pom.xml" />
+        <option value="$PROJECT_DIR$/myatis-plus-enum/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus-tenant/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

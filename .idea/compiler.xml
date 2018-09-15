@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myatis-plus-enum" />
+        <module name="mybatis-plus-active-record" />
+        <module name="mybatis-plus-auto-fill-metainfo" />
+        <module name="mybatis-plus-currency-service" />
+        <module name="mybatis-plus-logic-delete" />
+        <module name="mybatis-plus-optimistic-locker" />
+        <module name="mybatis-plus-quickstart" />
+        <module name="mybatis-plus-tenant" />
+        <module name="mybatis-plus-tradition-crud" />
+        <module name="mybatis-plus-wrapper" />
+        <module name="springboot-mybatis-plus-3.0.1-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="myatis-plus-enum" target="1.8" />
+      <module name="mybatis-plus-active-record" target="1.8" />
+      <module name="mybatis-plus-auto-fill-metainfo" target="1.8" />
+      <module name="mybatis-plus-currency-service" target="1.8" />
+      <module name="mybatis-plus-logic-delete" target="1.8" />
+      <module name="mybatis-plus-optimistic-locker" target="1.8" />
+      <module name="mybatis-plus-quickstart" target="1.8" />
+      <module name="mybatis-plus-tenant" target="1.8" />
+      <module name="mybatis-plus-tradition-crud" target="1.8" />
+      <module name="mybatis-plus-wrapper" target="1.8" />
+      <module name="springboot-mybatis-plus-3.0.1-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

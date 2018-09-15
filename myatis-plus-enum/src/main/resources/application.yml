@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    # druid 相关配置
+    druid:
+      driver-class-name: com.mysql.jdbc.Driver
+      # 基本属性
+      url: jdbc:mysql://localhost:3306/mp-3.0.1-demo?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
+      username: root
+      password: 123456
+
+# MP 配置
+mybatis-plus:
+  typeEnumsPackage: com.fatal.enums
